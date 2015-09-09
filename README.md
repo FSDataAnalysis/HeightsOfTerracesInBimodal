@@ -39,6 +39,13 @@ Laboratory for Energy and NanoScience (LENS), Institute Center for Future Energy
 
 The raw data to produce the force profiles was processed with a matlab code (*available upon request* contacting [here](http://www.lens-online.net/)  Dr M Chiesa).  The raw data and code can be found upon request (link above for password and username) in https://github.com/HeightsOfTerracesInBimodal
 
+*IMPORTANT NOTE*
+
+All the raw data can also be found in a dropbox account with the same name 
+and password as this account. 
+
+
+
 
 ### CODES (matlab)
 
